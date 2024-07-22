@@ -1,2 +1,2 @@
-# Panda
-Projeto de extração de dados com pandas
+# Extração de dados
+Projeto de extração de dados com pandas e plotly.express
